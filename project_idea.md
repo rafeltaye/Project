@@ -12,7 +12,9 @@
   
   4) *spraying data*: GIS data for their spray efforts in 2011 and 2013 by the city of Chicago.Spraying can reduce the number of mosquitos in the area, and therefore might eliminate the appearance of West Nile virus.
   
-**What do you know about the data so far?**:
+**What do you know about the data so far?**: 
 
-**Why did you choose this topic?**:
+  * The data is provided in CSV format 
+
+**Why did you choose this topic?**: I chose topic because I wanted to work with health related data set that presents a multiple challenges for me to apply most of the topics covered in the course. The question is defined and narrow enough that is not too challenging and broad enough to allow some personal research. The data provided also has good attributes.  
 
