@@ -8,7 +8,7 @@
   
   2) *weather data*: The weather conditions of 2007 to 2014, during the months of the tests. It is believed that hot and dry conditions are more favorable for West Nile virus than cold and wet. 
   
-  3) *training data*:The training set consists of data from 2007, 2009, 2011, and 2013
+  3) *training data*:The training set consists of data from 2007, 2009, 2011, and 2013 with test results 
   
   4) *spraying data*: GIS data for their spray efforts in 2011 and 2013 by the city of Chicago.Spraying can reduce the number of mosquitos in the area, and therefore might eliminate the appearance of West Nile virus.
   
@@ -16,5 +16,5 @@
 
   * The data is provided in CSV format 
 
-**Why did you choose this topic?**: I chose topic because I wanted to work with health related data set that presents a multiple challenges for me to apply most of the topics covered in the course. The question is defined and narrow enough that is not too challenging and broad enough to allow some personal research. The data provided also has good attributes.  
+**Why did you choose this topic?**: I chose this topic because I wanted to work with health related data set that presents a multiple challenges for me to apply most of the topics covered in the course. The question is defined and narrow enough that is not too challenging and broad enough to allow some personal research. The data provided also has multiole good attributes to work with.  
 
